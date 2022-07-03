@@ -51,6 +51,16 @@ h1, h2 {
     color: inherit;
 }
 
+/* Event Times */
+#times {
+    background-image: url("../images/dublin-city.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
 }
