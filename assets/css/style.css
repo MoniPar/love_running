@@ -22,7 +22,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 200%;
+    font-size: 280%;
     margin-left: 30px;
 }
 
@@ -203,6 +203,8 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
+/* Footer */
 
 footer {
     height: 150px;
